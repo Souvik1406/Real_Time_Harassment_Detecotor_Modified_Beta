@@ -1,0 +1,27 @@
+dataset/
+├── train/
+│   ├── Perpetrator/
+│   │   ├── image1.jpg
+│   │   ├── image2.jpg
+│   │   └── ...
+│   ├── Victim/
+│   │   ├── image1.jpg
+│   │   ├── image2.jpg
+│   │   └── ...
+│   └── No_Harassment/
+│       ├── image1.jpg
+│       ├── image2.jpg
+│       └── ...
+├── validation/
+│   ├── Perpetrator/
+│   │   ├── image1.jpg
+│   │   ├── image2.jpg
+│   │   └── ...
+│   ├── Victim/
+│   │   ├── image1.jpg
+│   │   ├── image2.jpg
+│   │   └── ...
+│   └── No_Harassment/
+│       ├── image1.jpg
+│       ├── image2.jpg
+│       └── ...
