@@ -99,7 +99,7 @@ cap = cv2.VideoCapture(0)
 class_names = ['No Harassment', 'Harassment']
 
 # Thresholds for harassment detection
-harassment_threshold = 0.6
+harassment_threshold = 0.8
 emotion_perpetrator = "anger"
 emotion_victim = "fear"
 
