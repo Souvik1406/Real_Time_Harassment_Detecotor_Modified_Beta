@@ -39,17 +39,11 @@ Welcome to the **Real-Time Harassment and Emotion Detection** project. This appl
 
 ### Running the App
 
-```markdown
-### Running the App
-
 1. Start the Streamlit app:
    ```bash
    streamlit run app.py
 
 ### Usage
-
-```markdown
-## Usage
 
 - **Start Webcam**: Click the button to start the webcam feed.
 - **Stop Webcam**: Click the button to stop the webcam feed.
