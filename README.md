@@ -11,7 +11,7 @@ Welcome to the **Real-Time Harassment and Emotion Detection** project. This appl
 - **Perpetrator and Victim Identification**: Differentiates between the perpetrator and the victim.
 - **User-Friendly Interface**: Clean and intuitive Streamlit interface.
 
-<img src = "https://www.researchgate.net/publication/343048987/figure/fig1/AS:915587807051776@1595304552999/Architecture-of-encoder-decoder-convolutional-neural-network-prepared-by-Vgg19-model.png" /> <!-- Placeholder for demo image -->
+<img src = "https://pub.mdpi-res.com/symmetry/symmetry-11-00001/article_deploy/html/images/symmetry-11-00001-g005.png?1570852208" /> <!-- Placeholder for demo image -->
 
 ## Getting Started
 
