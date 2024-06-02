@@ -14,7 +14,8 @@ Welcome to the **Real-Time Harassment and Emotion Detection** project. This appl
 <img src="https://pub.mdpi-res.com/symmetry/symmetry-11-00001/article_deploy/html/images/symmetry-11-00001-g005.png?1570852208" width="400" height="600" />
  <!-- Placeholder for demo image -->
 </div>
-## Getting Started
+
+### Getting Started
 
 ### Prerequisites
 
